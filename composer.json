@@ -1,5 +1,5 @@
 {
-    "name": "mohamedhekal/arabic-laravel-mpdf",
+    "name": "MohamedHekal/ArabicLaravelMpdf",
     "description": "Laravel Mpdf: Arabic Customized for Using Mpdf in Laravel to generate Pdfs.",
     "keywords": [
         "mpdf",
